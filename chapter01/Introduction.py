@@ -20,3 +20,5 @@ with open("file.txt","r") as f:
 
    print(new_data)  
   # print(f.readline().lower())
+
+  #  i did some change
